@@ -29,7 +29,7 @@ For provided many input images.
 
 ## Creators
 **Adam Godziński**
-- <https://github.com/ShogunDestroyer990>
+- <https://github.com/Czarka123>
 
 **Dawid Korach**
 - <https://github.com/E34tf>
